@@ -62,7 +62,5 @@ Soy un desarrollador en formación con enfoque en el **frontend**, me encanta co
 ---
 
 ### 🐍 Snake Animation (opcional)
+![snake gif](https://github.com/Ing-Dairo/Ing-Dairo/blob/output/github-contribution-grid-snake.svg)
 
-```html
-<!-- Puedes activarla desde https://github.com/Platane/snk -->
-<img src="https://github.com/Ing-Dairo/Ing-Dairo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
