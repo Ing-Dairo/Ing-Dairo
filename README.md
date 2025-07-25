@@ -31,18 +31,27 @@ Soy un desarrollador en formación con enfoque en el **frontend**, me encanta co
 
 ---
 
-### 💼 Proyectos Destacados
+### 🚀 Proyectos Destacados
 
-| Nombre | Descripción | Tecnologías |
-|--------|-------------|-------------|
-| `carta` | Diseño personalizado de carta para ocasiones especiales. | HTML · CSS |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🎁 [Carta Animada](https://github.com/Ing-Dairo/carta) | Página personalizada tipo carta, para fechas especiales. | HTML · CSS |
+| 📦 Inventario Web (en desarrollo) | Sistema inteligente para farmacias con vencimientos y alertas. | Django · React · PostgreSQL |
+
+---
+### 📫 Contáctame
+
+- 💼 [LinkedIn](https://linkedin.com/in/dairo-padilla-marimon-586b72265)
+- 📧 [Correo](mailto:dairo2821mip@gmail.com)
 
 ---
 
-### 📫 Contáctame
+### 🤓 Un poco más sobre mí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dairo-padilla-marimon-586b72265)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dairo2821mip@gmail.com)
+- 🎬 Me gusta el mundo audiovisual: edición, diseño, y sonido.
+- 🎧 Estudio con música y café ☕.
+- 💡 Mi meta actual: Convertirme en desarrollador frontend profesional.
+- 🚀 En paralelo, exploro temas como ciberseguridad y UX/UI.
 
 ---
 
